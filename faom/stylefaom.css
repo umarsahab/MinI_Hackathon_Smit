@@ -1,0 +1,80 @@
+
+.signin_body{
+    
+    margin: 50px;
+    margin-top: 60px;
+    background-color: rgb(19, 91, 184);
+}
+.Sign_in_foam{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 680px;
+    width: 400px;
+    border: 1px solid black;
+    text-align: center; 
+    background-color: beige;
+}
+.Signin_input{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+}
+.SignIn_btn{
+    height: 40px;
+    width: 300px;
+    font-size: larger;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+
+}
+span{
+    margin: 15px;
+}
+.facebook{   
+    font-size: xx-large;
+    color: blue;
+}
+.google{
+    font-size: xx-large;
+    color: green;
+}
+.instagram{
+    font-size: xx-large;
+    color: red;
+}
+.login_body{
+    margin: 50px;
+    margin-top: 80px;
+    background-color: rgb(19, 91, 184);
+}
+.log_in_foam{
+    background-color: beige;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 450px;
+    width: 400px;
+    border: 1px solid black;
+    text-align: center;
+}
+.login_input{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+}
+.logIn_btn{
+    height: 40px;
+    width: 300px;
+    font-size: larger;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
